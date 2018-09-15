@@ -1,0 +1,2 @@
+hc_api_key = 'IC4ZXEU6EJIXX9U724LR'
+hc_api_secret = 'PHQf5YY0WTJNkbWWK2NnTp7ZKzLvFmGC'
